@@ -7,3 +7,5 @@ The environments for the code can be installed by
 ```
 conda env create -f environments.yml
 ```
+## Data
+The load data used for experiments can be found in ```./Data/GEF_data```.
