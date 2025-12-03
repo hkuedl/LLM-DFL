@@ -11,7 +11,7 @@ conda env create -f environments.yml
 The load data used for experiments can be found in ```./Data/GEF_data```.
 
 ## Code
-There are four settings in our work. 
+There are four settings in our work to show the generalization ability of our LLM-empower DFL framework。
 | Filefold name      | Description |
 | ----------- | ----------- |
 |NN+LP   |Forecasting model is a neural network and optimization problem that ignores the integer constraints. This setting can be handled by Optnet.|
